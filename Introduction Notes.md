@@ -109,6 +109,7 @@ Test set predictions :
 print("Test set score: {:.2f}".format(np.mean(y_pred == y_test)))
 print("Test set score: {:.2f}".format(knn.score(X_test, y_test)*100))
 ``` 
+
 ```Terminal
 Output :-
 Test set score : 0.97

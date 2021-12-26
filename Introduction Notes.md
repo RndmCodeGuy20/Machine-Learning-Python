@@ -1,6 +1,9 @@
 # Machine Learning Landscape :-
 
 ---
+![Hello Everybody!](Images/helloworld.png)
+
+---
 
 **Optical Character Recognition _(OCR)_** is an example rather application of Machine Learning.
 
@@ -99,7 +102,7 @@ print("Test set predictions:\n {}".format(y_pred))
 ```
 ```Terminal
 Output :- 
-Test set predictions : 
+Test set predictions :
 [2 1 0 2 0 2 0 1 1 1 2 1 1 1 1 0 1 1 0 0 2 1 0 0 2 0 0 1 1 0 2 1 0 2 2 1 0 2]
 ```
 
